@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## EDUCATION
 
-You can use the [editor on GitHub](https://github.com/Catherine1124k/Catherine1124k.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**University of Toronto, St. George Campus					     Expected August 2021**
+Honours Bachelor of Arts and Science, Specialist in Mathematical Application in Economics and Finance, Minor in Statistics, and Economics 
+- Bulleted	Third year GPA: 4.0/4.0						               
+Relevant Coursework: Advanced Mathematics/Calculus, Probability theory, Linear algebra, Graph theory, Combination of numbers, Simple and multiple regression models, Design of surveys, Microeconomics, and Macroeconomics.
+**Industry Certifications and Courses**                                                         
+- Bulleted	SAS – SAS Certified Base and Advanced Programmer for SAS 9.4                      Jan 2019
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## PROJECT EXPERIENCE
+**2020 US Election Prediction Project		                                           Oct 2020**
+•	Modeling the data and predict the result by post-stratification in order to estimate the proportion of voters who will vote for Donald Trump
+•	Concluding the specific logistic regression model by using _data.svyglm_ and got the relationship between the age group, gender, income, race, and state and the probability that vote for Donald Trump.
+•	Separating the swing state and the unswing state using _Predict()_ to see the different result between these two situations, and got that the Donald Trump would win without the swing state
+**Marketing Campaign Response Rate Pridiction with SAS Project               May 2019 – June 2019**
+•	Utilized the Stepwise method to select variables and built a Logistic Regression model in SAS so as to predict the response rate for a marketing campaign and achieve a model accuracy of 85%
+•	Conducted exploratory method data analysis, converted categorical variables into numerical values through encoding, and imputed missing values for a model build
+•	Utilized Pandas in SAS to process above 45k raw data, impute missing values, and clean data for model building 
+•	Splited the imputed data set into training and tested the dataset which is 70% of data for the training to process over 45k raw data by using _PROC SURVEYSELECT_
+•	Create the missing imputation to process over 45k raw data and impute missing value to a new dataset by using _PROC STDIZE_
+**Modeling and analyzing the bond yield curves by mathematical financial method                Feb 2021**
+•	Summarized the historical date of 32 bonds including their closed prices, maturity, and issue date, etc. Selected 10 of them by their characteristics and using python to construct the curves.
+•	By generated classes in python to construct the function for the yield-to-maturity curve and plot the line graphs of these 10 bonds’ yield curve. Similar methods to generate the spot curve and the 1-year forward curve, and plot them.
+•	Write the pseudo-code for how I would derive the spot curve with terms ranging from 1-5 years from my chosen bonds, and a pseudo-code for how I would derive the 1-year forward curve with terms ranging from 2-5 years from my chosen bonds. 
+•	Constructed two covariance matrices for the time series of daily log-returns of yield, and forward rates. Also generate the eigenvalues and eigenvectors of both covariance matrices.
+![image](https://user-images.githubusercontent.com/76257064/112778300-cc1e2380-9076-11eb-83a0-5966a0de9a66.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## EMPLOYMENT EXPERIENCE![image](https://user-images.githubusercontent.com/76257064/112778503-4484e480-9077-11eb-9b03-48a64abf8567.png)
+**Nanjing Zhiqiyun Information Technology Co. LTD		                        Nanjing, China**
+**Data analyst			 						    July 2020 – August 2020**
+•	Designed, implemented, and maintained a SQL database, which met the public security system’s data management and accuracy requirement
+•	Assisted companies in designing their computer software products to help the police system, banks, courts and other bodies analyze complex data and provide their own opinion
+•	In an underground bank case, wrote complex SQL queries and used in-house software which is called penetrating insight to help analyze the flow data of the month, build a network and filter data to find the final suspect
+![image](https://user-images.githubusercontent.com/76257064/112778520-4ea6e300-9077-11eb-8ea4-0c6ecea7eb21.png)
 
-# Header 1
-## Header 2
-### Header 3
+## Skills & Interests ![image](https://user-images.githubusercontent.com/76257064/112778552-61b9b300-9077-11eb-97c5-b99b2c537d59.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**Technical:** Python, R, SQL, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, and SAS
+**Language:** Italian, English, Mandarin
+![image](https://user-images.githubusercontent.com/76257064/112778568-68482a80-9077-11eb-9c4c-e3e8222efd5c.png)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Catherine1124k/Catherine1124k.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

@@ -24,21 +24,18 @@ Relevant Coursework: Advanced Mathematics/Calculus, Probability theory, Linear a
 •	By generated classes in python to construct the function for the yield-to-maturity curve and plot the line graphs of these 10 bonds’ yield curve. Similar methods to generate the spot curve and the 1-year forward curve, and plot them.
 •	Write the pseudo-code for how I would derive the spot curve with terms ranging from 1-5 years from my chosen bonds, and a pseudo-code for how I would derive the 1-year forward curve with terms ranging from 2-5 years from my chosen bonds. 
 •	Constructed two covariance matrices for the time series of daily log-returns of yield, and forward rates. Also generate the eigenvalues and eigenvectors of both covariance matrices.
-![image](https://user-images.githubusercontent.com/76257064/112778300-cc1e2380-9076-11eb-83a0-5966a0de9a66.png)
 
 
-## EMPLOYMENT EXPERIENCE![image](https://user-images.githubusercontent.com/76257064/112778503-4484e480-9077-11eb-9b03-48a64abf8567.png)
+## EMPLOYMENT EXPERIENCE
 **Nanjing Zhiqiyun Information Technology Co. LTD		                        Nanjing, China**
 **Data analyst			 						    July 2020 – August 2020**
 •	Designed, implemented, and maintained a SQL database, which met the public security system’s data management and accuracy requirement
 •	Assisted companies in designing their computer software products to help the police system, banks, courts and other bodies analyze complex data and provide their own opinion
 •	In an underground bank case, wrote complex SQL queries and used in-house software which is called penetrating insight to help analyze the flow data of the month, build a network and filter data to find the final suspect
-![image](https://user-images.githubusercontent.com/76257064/112778520-4ea6e300-9077-11eb-8ea4-0c6ecea7eb21.png)
 
-## Skills & Interests ![image](https://user-images.githubusercontent.com/76257064/112778552-61b9b300-9077-11eb-97c5-b99b2c537d59.png)
+
+## Skills & Interests 
 
 
 **Technical:** Python, R, SQL, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, and SAS
 **Language:** Italian, English, Mandarin
-![image](https://user-images.githubusercontent.com/76257064/112778568-68482a80-9077-11eb-9c4c-e3e8222efd5c.png)
-

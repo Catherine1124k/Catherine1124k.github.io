@@ -38,4 +38,5 @@ Relevant Coursework: Advanced Mathematics/Calculus, Probability theory, Linear a
 
 
 **Technical:** Python, R, SQL, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, and SAS
+
 **Language:** Italian, English, Mandarin

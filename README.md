@@ -2,7 +2,7 @@
 
 **University of Toronto, St. George Campus					     Expected August 2021**
 Honours Bachelor of Arts and Science, Specialist in Mathematical Application in Economics and Finance, Minor in Statistics, and Economics 
-- Bulleted	Third year GPA: 4.0/4.0						               
+- Third year GPA: 4.0/4.0						               
 Relevant Coursework: Advanced Mathematics/Calculus, Probability theory, Linear algebra, Graph theory, Combination of numbers, Simple and multiple regression models, Design of surveys, Microeconomics, and Macroeconomics.
 
 **Industry Certifications and Courses**                                                         
